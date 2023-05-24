@@ -59,7 +59,7 @@ public class Main {
             }
         }
         System.out.println();
-        // Задание 4
+        //  Задание 4
         System.out.println("Задание 4");
         for (int i = 0; i < massiv1.length; i++) {
             if (massiv1[i] % 2 != 0) {
